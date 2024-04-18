@@ -1,5 +1,5 @@
-import NavBar from "./components/Navbar"
-import Brand from "./components/Brand"
+import NavBar from "./components/NavBar/Navbar"
+import Brand from "./components/Brand/Brand"
 import "./App.css"
 
 function App() {

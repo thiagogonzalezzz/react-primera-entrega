@@ -1,9 +1,10 @@
 import React from 'react'
+import "./CategoryList.css"
 
 export default function CategoryList() {
   return (
     <nav>
-        <ul>
+        <ul className='cat-list'>
             <li>
                 <a href="#">Productos</a>
             </li>
