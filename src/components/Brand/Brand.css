@@ -1,3 +1,7 @@
 .titulo {
     font-size: 70px;
 }
+.brand {
+    background-color: chocolate;
+    border-radius: 30px;
+}
